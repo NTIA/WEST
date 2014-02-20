@@ -1,0 +1,47 @@
+// database setup for Transcript_Survey
+// Inorder to set up the database follow te folling steps:
+//		1) The database has to be created from command line or postgres
+//		2) The two users must be created from command line or postgres
+// 		3) Loginto the database and copy and past the rest of this file to create all the
+//		necissary tables and sequences
+//		OR EVEN BETTER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//		go to ./db_tasks.php and have it set up automatically!
+
+// The following line will create the database when loged into postgres
+CREATE DATABASE "Transcript_Survey";
+
+// The folllowing two linew will create the users when logged into postgres
+CREATE USER "TSclient" WITH PASSWORD 'Cl13nt';
+CREATE USER "TSadmin" WITH PASSWORD '@dm1n';
+
+// After logging into the database, the rest of this file can be copied and entered into
+// postgres to setup the database
+CREATE TABLE sessions(ses_id INT PRIMARY KEY, ses_name VARCHAR(50));
+
+CREATE TABLE random(rand_id INT PRIMARY KEY, sessions VARCHAR(50), videos VARCHAR(12));
+
+CREATE TABLE filenames(src_id INT PRIMARY KEY, ses VARCHAR(20), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7));
+
+CREATE TABLE answers(sen_id INT PRIMARY KEY, filetag VARCHAR(64), position INT, answer VARCHAR(80));
+
+CREATE TABLE questions(q_id INT PRIMARY KEY, filetag VARCHAR(64), q_before VARCHAR(300), q_after VARCHAR(600));
+
+CREATE TABLE survey_questions(sq_id INT PRIMARY KEY, question VARCHAR(200), type VARCHAR(20));
+
+CREATE TABLE survey_answers(answer_id INT PRIMARY KEY, question VARCHAR(200), answer VARCHAR(200));
+
+CREATE SEQUENCE re_inds START 1;
+CREATE TABLE survey_response(resp_id INT PRIMARY KEY DEFAULT nextval('re_inds'), user_number INT, sq_id INT, question VARCHAR(200), response VARCHAR(600));
+
+CREATE SEQUENCE u_inds START 1;
+
+CREATE SEQUENCE v_inds START 1;
+CREATE TABLE votes(vote_id INT PRIMARY KEY DEFAULT nextval('v_inds'), user_number INT, user_response VARCHAR(80), answer VARCHAR(80), location VARCHAR(20), ses VARCHAR(50), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7), position INT, time_stamp TIMESTAMP DEFAULT NOW());
+
+CREATE SEQUENCE r_inds START 1;
+CREATE TABLE user_rand(order_id INT PRIMARY KEY DEFAULT nextval('r_inds'), user_number INT, ses VARCHAR(50), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7), ord_ind INT, location VARCHAR(20));
+
+GRANT SELECT, INSERT, UPDATE ON ALL TABLES IN SCHEMA public TO "TSclient";
+GRANT ALL ON ALL TABLES IN SCHEMA public TO "TSadmin";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "TSclient";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "TSadmin";

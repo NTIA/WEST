@@ -1,0 +1,411 @@
+*
+f1femalepresidentV0A0
+Question before video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+*
+f1mountainhikeV0A0
+Question before video f1mountainhikeV0A0
+Question after video f1mountainhikeV0A0
+Question two video f1mountainhikeV0A0
+Question three video f1mountainhikeV0A0
++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+*
+f1newdelhiV0A0
+Question before video f1newdelhiV0A0
+Question after video f1newdelhiV0A0
++
+[100] This is sentence one for video f1newdelhiV0A0.
+[80] This is sentence two for video f1newdelhiV0A0.
+[50] This is sentence three for video f1newdelhiV0A0.
+[20] This is sentence four for video f1newdelhiV0A0.
+*
+f1workhistoryV0A0
+Question before video f1workhistoryV0A0
+Question after video f1workhistoryV0A0
++
+[100] This is sentence one for video f1workhistoryV0A0.
+[80] This is sentence two for video f1workhistoryV0A0.
+[50] This is sentence three for video f1workhistoryV0A0.
+[20] This is sentence four for video f1workhistoryV0A0.
+*
+f2foodsV0A0
+Question before video f2foodsV0A0
+Question after video f2foodsV0A0
++
+[100] This is sentence one for video f2foodsV0A0.
+[80] This is sentence two for video f2foodsV0A0.
+[50] This is sentence three for video f2foodsV0A0.
+[20] This is sentence four for video f2foodsV0A0.
+*
+f2redwoodsV0A0
+Question before video f2redwoodsV0A0
+Question after video f2redwoodsV0A0
++
+[100] This is sentence one for video f2redwoodsV0A0.
+[80] This is sentence two for video f2redwoodsV0A0.
+[50] This is sentence three for video f2redwoodsV0A0.
+[20] This is sentence four for video f2redwoodsV0A0.
+*
+f3pedometerV0A0
+Question before video f3pedometerV0A0
+Question after video f3pedometerV0A0
++
+[100] This is sentence one for video f3pedometerV0A0.
+[80] This is sentence two for video f3pedometerV0A0.
+[50] This is sentence three for video f3pedometerV0A0.
+[20] This is sentence four for video f3pedometerV0A0.
+*
+f3phoneV0A0
+Question before video f3phoneV0A0
+Question after video f3phoneV0A0
++
+[100] This is sentence one for video f3phoneV0A0.
+[80] This is sentence two for video f3phoneV0A0.
+[50] This is sentence three for video f3phoneV0A0.
+[20] This is sentence four for video f3phoneV0A0.
+*
+f3repairmanV0A0
+Question before video f3repairmanV0A0
+Question after video f3repairmanV0A0
++
+[100] This is sentence one for video f3repairmanV0A0.
+[80] This is sentence two for video f3repairmanV0A0.
+[50] This is sentence three for video f3repairmanV0A0.
+[20] This is sentence four for video f3repairmanV0A0.
+*
+f1femalepresident_iV0A0
+Question before video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+*
+f1mountainhike_iV0A0
+Question before video f1mountainhikeV0A0
+Question after video f1mountainhikeV0A0
+Question two video f1mountainhikeV0A0
+Question three video f1mountainhikeV0A0
++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+*
+f1newdelhi_iV0A0
+Question before video f1newdelhiV0A0
+Question after video f1newdelhiV0A0
++
+[100] This is sentence one for video f1newdelhiV0A0.
+[80] This is sentence two for video f1newdelhiV0A0.
+[50] This is sentence three for video f1newdelhiV0A0.
+[20] This is sentence four for video f1newdelhiV0A0.
+*
+f1workhistory_iV0A0
+Question before video f1workhistoryV0A0
+Question after video f1workhistoryV0A0
++
+[100] This is sentence one for video f1workhistoryV0A0.
+[80] This is sentence two for video f1workhistoryV0A0.
+[50] This is sentence three for video f1workhistoryV0A0.
+[20] This is sentence four for video f1workhistoryV0A0.
+*
+f2foods_iV0A0
+Question before video f2foodsV0A0
+Question after video f2foodsV0A0
++
+[100] This is sentence one for video f2foodsV0A0.
+[80] This is sentence two for video f2foodsV0A0.
+[50] This is sentence three for video f2foodsV0A0.
+[20] This is sentence four for video f2foodsV0A0.
+*
+f2redwoods_iV0A0
+Question before video f2redwoodsV0A0
+Question after video f2redwoodsV0A0
++
+[100] This is sentence one for video f2redwoodsV0A0.
+[80] This is sentence two for video f2redwoodsV0A0.
+[50] This is sentence three for video f2redwoodsV0A0.
+[20] This is sentence four for video f2redwoodsV0A0.
+*
+f1femalepresident_ipV0A0
+Question before video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+*
+f1mountainhike_ipV0A0
+Question before video f1mountainhikeV0A0
+Question after video f1mountainhikeV0A0
+Question two video f1mountainhikeV0A0
+Question three video f1mountainhikeV0A0
++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+*
+f1newdelhi_ipV0A0
+Question before video f1newdelhiV0A0
+Question after video f1newdelhiV0A0
++
+[100] This is sentence one for video f1newdelhiV0A0.
+[80] This is sentence two for video f1newdelhiV0A0.
+[50] This is sentence three for video f1newdelhiV0A0.
+[20] This is sentence four for video f1newdelhiV0A0.
+*
+f1workhistory_ipV0A0
+Question before video f1workhistoryV0A0
+Question after video f1workhistoryV0A0
++
+[100] This is sentence one for video f1workhistoryV0A0.
+[80] This is sentence two for video f1workhistoryV0A0.
+[50] This is sentence three for video f1workhistoryV0A0.
+[20] This is sentence four for video f1workhistoryV0A0.
+*
+f2foods_ipV0A0
+Question before video f2foodsV0A0
+Question after video f2foodsV0A0
++
+[100] This is sentence one for video f2foodsV0A0.
+[80] This is sentence two for video f2foodsV0A0.
+[50] This is sentence three for video f2foodsV0A0.
+[20] This is sentence four for video f2foodsV0A0.
+*
+f2redwoods_ipV0A0
+Question before video f2redwoodsV0A0
+Question after video f2redwoodsV0A0
++
+[100] This is sentence one for video f2redwoodsV0A0.
+[80] This is sentence two for video f2redwoodsV0A0.
+[50] This is sentence three for video f2redwoodsV0A0.
+[20] This is sentence four for video f2redwoodsV0A0.
+*
+f1femalepresident_itV0A0
+Question before video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
+Question two video f1femalepresidentV0A0
+Question three video f1femalepresidentV0A0
+Question after video f1femalepresidentV0A0
++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+++
+[100] This is sentence one for video f1femalepresidentV0A0.
+[80] This is sentence two for video f1femalepresidentV0A0.
+[50] This is sentence three for video f1femalepresidentV0A0.
+[20] This is sentence four for video f1femalepresidentV0A0.
+*
+f1mountainhike_itV0A0
+Question before video f1mountainhikeV0A0
+Question after video f1mountainhikeV0A0
+Question two video f1mountainhikeV0A0
+Question three video f1mountainhikeV0A0
++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+++
+[100] This is sentence one for video f1mountainhikeV0A0.
+[80] This is sentence two for video f1mountainhikeV0A0.
+[50] This is sentence three for video f1mountainhikeV0A0.
+[20] This is sentence four for video f1mountainhikeV0A0.
+*
+f1newdelhi_itV0A0
+Question before video f1newdelhiV0A0
+Question after video f1newdelhiV0A0
++
+[100] This is sentence one for video f1newdelhiV0A0.
+[80] This is sentence two for video f1newdelhiV0A0.
+[50] This is sentence three for video f1newdelhiV0A0.
+[20] This is sentence four for video f1newdelhiV0A0.
+*
+f1workhistory_itV0A0
+Question before video f1workhistoryV0A0
+Question after video f1workhistoryV0A0
++
+[100] This is sentence one for video f1workhistoryV0A0.
+[80] This is sentence two for video f1workhistoryV0A0.
+[50] This is sentence three for video f1workhistoryV0A0.
+[20] This is sentence four for video f1workhistoryV0A0.
+*
+f2foods_itV0A0
+Question before video f2foodsV0A0
+Question after video f2foodsV0A0
++
+[100] This is sentence one for video f2foodsV0A0.
+[80] This is sentence two for video f2foodsV0A0.
+[50] This is sentence three for video f2foodsV0A0.
+[20] This is sentence four for video f2foodsV0A0.
+*
+f2redwoods_itV0A0
+Question before video f2redwoodsV0A0
+Question after video f2redwoodsV0A0
++
+[100] This is sentence one for video f2redwoodsV0A0.
+[80] This is sentence two for video f2redwoodsV0A0.
+[50] This is sentence three for video f2redwoodsV0A0.
+[20] This is sentence four for video f2redwoodsV0A0.

@@ -1,0 +1,48 @@
+// database setup for FC_Sessions
+// Inorder to set up the database follow te folling steps:
+//		1) The database has to be created from command line or postgres
+//		2) The two users must be created from command line or postgres
+// 		3) Loginto the database and copy and paste the rest of this file to create all the
+//		necessary tables and sequences 
+//		OR EVEN BETTER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//		go to ./db_tasks.php and have it set up automatically!
+
+// The following line will create the database when loged into postgres
+CREATE DATABASE "FC_Survey";
+
+// The folllowing two linew will create the users when logged into postgres
+CREATE USER "FCSclient" WITH PASSWORD 'Cl13nt';
+CREATE USER "FCSadmin" WITH PASSWORD '@dm1n';
+
+// After logging into the database, the rest of this file can be copied and entered into
+// postgres to setup the database
+CREATE SEQUENCE s_inds START 1;
+CREATE TABLE sessions(ses_id INT PRIMARY KEY DEFAULT nextval('s_inds'), ses_name VARCHAR(50));
+CREATE SEQUENCE ra_inds START 1;
+CREATE TABLE random(rand_id INT PRIMARY KEY DEFAULT nextval('ra_inds'), sessions VARCHAR(50), videos VARCHAR(12), tally BOOLEAN);
+CREATE SEQUENCE f_inds START 1;
+CREATE TABLE filenames(src_id INT PRIMARY KEY DEFAULT nextval('f_inds'), ses VARCHAR(50), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7));
+CREATE SEQUENCE a_inds START 1;
+CREATE TABLE answers(sen_id INT PRIMARY KEY DEFAULT nextval('a_inds'), qv_no INT, filetag VARCHAR(64), correctness INT, answer VARCHAR(300));
+CREATE SEQUENCE q_inds START 1;
+CREATE TABLE questions(q_id INT PRIMARY KEY DEFAULT nextval('q_inds'), qv_no INT, filetag VARCHAR(64), question VARCHAR(300));
+CREATE SEQUENCE sq_inds START 1;
+CREATE TABLE survey_questions(sq_id INT PRIMARY KEY DEFAULT nextval('sq_inds'), question VARCHAR(200), type VARCHAR(20));
+CREATE SEQUENCE sa_inds START 1;
+CREATE TABLE survey_answers(answer_id INT PRIMARY KEY DEFAULT nextval('sa_inds'), question VARCHAR(200), answer VARCHAR(200));
+CREATE SEQUENCE re_inds START 1;
+CREATE TABLE survey_response(resp_id INT PRIMARY KEY DEFAULT nextval('re_inds'), user_number INT, sq_id INT, question VARCHAR(200), response VARCHAR(600));
+CREATE SEQUENCE u_inds START 1;
+CREATE SEQUENCE v_inds START 1;
+CREATE TABLE votes(vote_id INT PRIMARY KEY DEFAULT nextval('v_inds'), user_number INT, qv_no INT, correctness INT, answer VARCHAR(300), location VARCHAR(20), ses VARCHAR(20), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7), time_stamp TIMESTAMP DEFAULT NOW());
+CREATE SEQUENCE r_inds START 1;
+CREATE TABLE user_rand(order_id INT PRIMARY KEY DEFAULT nextval('r_inds'), user_number INT, ses VARCHAR(50), src VARCHAR(50), vi VARCHAR(7), ai VARCHAR(7), ord_ind INT, location VARCHAR(20));
+GRANT SELECT, INSERT, UPDATE ON ALL TABLES IN SCHEMA public TO "FCSclient";
+GRANT ALL ON ALL TABLES IN SCHEMA public TO "FCSadmin";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "FCSclient";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "FCSadmin";";
+
+GRANT SELECT, INSERT, UPDATE ON ALL TABLES IN SCHEMA public TO "FCSclient";
+GRANT ALL ON ALL TABLES IN SCHEMA public TO "FCSadmin";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "FCSclient";
+GRANT UPDATE, SELECT ON ALL SEQUENCES IN SCHEMA public TO "FCSadmin";

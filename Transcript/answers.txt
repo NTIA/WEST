@@ -1,0 +1,79 @@
+*
+f1countriesV0A0
+
+"Well we went to, starting with the U.S.A.: [1], Costa Rica, the U.K., including London and Wales, Switzerland and Greece, [2], Australia, and India."
++
+[1]Canada
+[2]Tahiti
+*
+m2busV0A0
+
+"When I was in, boy I think it was probably first grade or second grade, this bus that we would take to school, I would stand next to the bus driver and I would [1] the [2] on the bus."
++
+[1]shift
+[2]gears
+*
+m7countrymusicV0A0
+
+"My dad always listened to [1]. I remember growing up just hearing country all the time and I just kinda [2] it."
++
+[1]country
+[2]loved
+*
+f1femalepresidentV0A0
+
+"There’s a reason that she’s [1] of [2], now; she was running for president at the time and I thought that would have been great, you know the first female president ever."
+"This is a statement with words [1] and [2] and [3] and [4]"
+"one [1] two [2] three [3]"
++
+[1]Secretary
+[2]State
+++
+[1]Toast
+[2]is
+[3]Good
+[4]Breakfast
+++
+[1]one
+[2]two
+[3]three
+*
+f1mountainhikeV0A0
+
+"It was on top of a mountain during a [1] day hike, when I had fallen asleep in this little [2] hut and he decided to go climbing up to this other little peak where you could see both coasts of New Zealand."
+"I think [1] makes for a [2] breakfast [3]"
++
+[1]three
+[2]tin
+++
+[1]toast
+[2]delicious
+[3]everyday
+*
+f1newdelhiV0A0
+
+"OK well New Delhi was just packed with people; people [1] in the streets in the middle of intersections, beggars selling [2]; every time the car stopped, the car would be surrounded by hoards of people trying to sell things or get rupees.”
++
+[1]sleeping
+[2]gas masks
+*
+f1workhistoryV0A0
+
+"And from that point on I went from giving [1] and doing secretarial work to going more in depth into the video field, and now I do [2] editing and producing."
++
+[1]massages
+[2]sound
+*
+f2foodsV0A0
+
+“I would like to try new foods, I do like food a loty, and I would pretty much eat anything as long as it's [1] and isn't [2] at me”
++
+[1]cooked
+[2]staring
+*
+f2redwoodsV0A0
+
+“It’s off the [1] in the north of California and there are a lot of redwood trees and the ocean is just amazing from, you know, the [2] that we’ve driven past.”
++
+[1]coast
+[2]vista points

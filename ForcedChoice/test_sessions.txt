@@ -1,0 +1,54 @@
+*
+first
++
+f1femalepresident V0 A0
+f1mountainhike V0 A0
+f1newdelhi V0 A0
+*
+second
++
+f1workhistory V0 A0
+f2foods V0 A0
+f2redwoods V0 A0
+*
+practice
++
+f3pedometer V0 A0
+f3phone V0 A0
+f3repairman V0 A0
+*
+ipad
++
+f1femalepresident_i V0 A0
+f1mountainhike_i V0 A0
+f1newdelhi_i V0 A0
+*
+ipad2
++
+f1workhistory_i V0 A0
+f2foods_i V0 A0
+f2redwoods_i V0 A0
+*
+iphone
++
+f1femalepresident_ip V0 A0
+f1mountainhike_ip V0 A0
+f1newdelhi_ip V0 A0
+*
+iphone2
++
+f1workhistory_ip V0 A0
+f2foods_ip V0 A0
+f2redwoods_ip V0 A0
+*
+ipod
++
+f1femalepresident_it V0 A0
+f1mountainhike_it V0 A0
+f1newdelhi_it V0 A0
+*
+ipod2
++
+f1workhistory_it V0 A0
+f2foods_it V0 A0
+f2redwoods_it V0 A0

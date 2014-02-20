@@ -1,0 +1,66 @@
+*
+f1femalepresidentV0A0
+This statement will appear before the video plays.
+What is the title of the person this woman was talking about?
+This is a second question?
+This is a third question?
++
+Secretary of State
+++
+This answers the second question.
+++
+This answers the third question.
+*
+f1mountainhikeV0A0
+
+How long was the hike this woman described?
+This is a second question?
+This is a third question?
++
+three days
+++
+This answers the second question.
+++
+This answers the third question.
+*
+f1newdelhiV0A0
+
+What were the beggars selling?
++
+gas masks
+*
+f1workhistoryV0A0
+
+What was the first occupation this woman described?
++
+“giving massages”/masseuse OR “secretarial work”/secretary
+*
+f2foodsV0A0
+
+What was one criterion this woman described for trying to food?
++
+cooked OR not “staring at her”
+*
+f2redwoodsV0A0
+
+What kind of “points” did this woman describe?
++
+vista
+*
+f1countriesV0A0
+
+What were two places this woman visited?
++
+USA, Canada, U.K., London, Wales, Switzerland, Greece, Tahiti, Australia, India
+*
+m2busV0A0
+
+What did this man do on the bus?
++
+shift the gears OR stand next to the bus driver
+*
+m7countrymusicV0A0
+
+What kind of music is this man talking about?
++
+country

@@ -1,0 +1,53 @@
+*
+Multiple Choice
+How hard did you find this task? 
++
+1 very easy
+2
+3
+4
+5 very hard
+*
+Free Response
+Was there anything in particular that made this task easy/hard?
+*
+Multiple Choice
+How easy was it to use this program to complete the task? 
++
+1 very easy
+2
+3
+4
+5 very hard
+*
+Multiple Choice
+Did you have any difficulty hearing the people talk in the video clips?
++
+No difficulty. I could clearly hear the speech.
+Some difficulty. I had difficulties hearing some of the speech.
+Moderate difficulty. I could not hear most of the speech.
+*
+Multiple Choice
+Do you have a hearing loss that you know of?
++
+Yes
+No
+*
+Multiple Choice
+Did any of the people in the clips have an accent you had a hard time understanding?
++
+Yes
+No
+*
+Free Response
+If so, please describe: 
+*
+Multiple Choice
+How would you describe your current ability to read a computer screen?
++
+I can read a computer screen with the default font size or smaller.
+I have to adjust my computer to use larger fonts.
+I have to use additional tools to read my screen (e.g., magnifier).
+*
+Free Response
+Do you have anything else you would like to share about this test?

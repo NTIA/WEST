@@ -13,6 +13,6 @@ f2redwoods V0 A0
 *
 practice
 +
-f1countries V0 A0
-m2bus V0 A0
-m7countrymusic V0 A0
+f3pedometer V0 A0
+f3phone V0 A0
+f3repairman V0 A0

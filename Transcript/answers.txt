@@ -1,19 +1,19 @@
 *
-f1countriesV0A0
+f3pedometerV0A0
 
 "Well we went to, starting with the U.S.A.: [1], Costa Rica, the U.K., including London and Wales, Switzerland and Greece, [2], Australia, and India."
 +
 [1]Canada
 [2]Tahiti
 *
-m2busV0A0
+f3phoneV0A0
 
 "When I was in, boy I think it was probably first grade or second grade, this bus that we would take to school, I would stand next to the bus driver and I would [1] the [2] on the bus."
 +
 [1]shift
 [2]gears
 *
-m7countrymusicV0A0
+f3repairmanV0A0
 
 "My dad always listened to [1]. I remember growing up just hearing country all the time and I just kinda [2] it."
 +

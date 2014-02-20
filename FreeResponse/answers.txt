@@ -47,19 +47,19 @@ What kind of “points” did this woman describe?
 +
 vista
 *
-f1countriesV0A0
+f3pedometerV0A0
 
 What were two places this woman visited?
 +
 USA, Canada, U.K., London, Wales, Switzerland, Greece, Tahiti, Australia, India
 *
-m2busV0A0
+f3phoneV0A0
 
 What did this man do on the bus?
 +
 shift the gears OR stand next to the bus driver
 *
-m7countrymusicV0A0
+f3repairmanV0A0
 
 What kind of music is this man talking about?
 +

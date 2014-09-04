@@ -646,7 +646,7 @@ function user_check_exist($db_credentials, $user_number, $location) {
  */
 function user_seq_currval($db_credentials,$user_number,$session,$location)
 {
-	$query = "SELECT count(DISTINCT src) FROM votes WHERE user_number=" . $user_number . " AND location = '" . $location . "' AND ses= '" . $session . "';" ;
+	$query = "SELECT count (*) FROM (SELECT DISTINCT src, ai, vi FROM votes WHERE user_number = " . $user_number . " AND location = '" . $location . "' AND ses = '" . $session . "')a;";
 	$curr_val = pg_fetch_assoc(ask_pg($db_credentials,$query));
 	return $curr_val['count'];
 }
@@ -669,7 +669,7 @@ function user_seq_currval($db_credentials,$user_number,$session,$location)
  * updated Luke Connors 06/20/2012
  */
 function user_seq_nextval($db_credentials, $user_number, $session, $location){
-	$query = "SELECT count(DISTINCT src) FROM votes WHERE user_number=" . $user_number . " AND location = '" . $location . "' AND ses= '" . $session . "';" ;
+	$query = "SELECT count (*) FROM (SELECT DISTINCT src, ai, vi FROM votes WHERE user_number = " . $user_number . " AND location = '" . $location . "' AND ses = '" . $session . "')a;";
 	$next_val = pg_fetch_assoc(ask_pg($db_credentials,$query));
 	$next_val = $next_val['count'] + 1;
 	return $next_val;

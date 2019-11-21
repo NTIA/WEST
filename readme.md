@@ -2,7 +2,7 @@
 
 ## Hi!
 
-Welcome to Web-Enabled Subjective Test (WEST). For full instructions on use of this software, please download the manual from the [ITS website](www.its.bldrdoc.gov). Click on “Video Quality Research” and then “Web-Enabled Subjective Test (WEST)”.
+Welcome to Web-Enabled Subjective Test (WEST). For full instructions on use of this software, please download the manual from the [ITS website](https://www.its.bldrdoc.gov). Click on “Video Quality Research” and then “Web-Enabled Subjective Test (WEST)”.
 
 WEST is a very simple way to conduct a subjective test on a mobile device. The devices connect to a server running the WEST software using a web browser. The server transfers stimuli to the device, then the device plays the stimulus and prompts the user for a vote.
 
